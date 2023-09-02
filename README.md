@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NetroIndonesia
-- 👀 I’m interested in JS, Python
+- 👀 I’m interested in JS, Python and C++
 - 🌱 I’m currently learning JS
 
 <!---

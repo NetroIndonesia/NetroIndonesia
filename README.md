@@ -14,10 +14,9 @@ Join me on Telegram.
 
 ### Working on: 🚀
 
-- Learning [GO](https://github.com/NetroIndonesia/go_ilya_kruk)
-- [Fullstack web3 development course](https://github.com/NetroIndonesia/full_course_crypto_32)
-- [Ethernaut tasks](https://github.com/NetroIndonesia/ethernaut_source_tasks)
-- Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
+- Learning [C++]
+- [GrowGame Bot Discord](https://discord.com/application-directory/1124685110843801610)
+- Various bots and scripts, with results showcased [here](https://t.me/htfgtps)
 
 ## Languages and Tools
 <div>

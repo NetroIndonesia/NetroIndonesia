@@ -14,6 +14,7 @@ Join me on Telegram.
 ### Working on: 🚀
 
 - Learning [C++]
+- [CodingSMK](https://t.me/codingsmk)
 - [GrowGame Bot Discord](https://discord.com/application-directory/1124685110843801610)
 - Various bots and scripts, with results showcased [here](https://t.me/htfgtps)
 
